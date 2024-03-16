@@ -1,5 +1,12 @@
 # Лекция 2
 
+## Содержание
+
+* [Задачи современных сетей](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-02.md#задачи-современных-сетей)
+* [Компоненты сетевой инфраструктуры](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-02.md#компоненты-сетевой-инфраструктуры)
+* [Уровни OSI](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-02.md#уровни-osi)
+* [Классификация сетей](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-02.md#классификация-сетей)
+
 ### Задачи современных сетей
 
 * Обеспечение надежной передачи данных
