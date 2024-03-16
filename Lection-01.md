@@ -1,5 +1,10 @@
 # Лекция 1
 
+## Cодержание
+* [Общие замечания](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-01.md#общие-замечания)
+* [Утилита `ping`](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-01.md#работа-утилиты-ping)
+* [Классификация сетей](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-01.md#классификация-сетей-по-типу-адресации)
+
 ### Общие замечания
 * Сетевой уровень
   * ip-адреса
