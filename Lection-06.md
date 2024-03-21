@@ -1,5 +1,17 @@
 # Лекция 6
 
+## Содержание
+
+* [Internet protocol v4](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-06.md#internet-protocol-v4)
+  * Стандарты
+  * Задачи IPv4
+  * Ограничения IPv4
+  * Адресация
+  * Маска сети
+  * Классы адресов
+  * Способы получения ip-адреса
+  * Заголовок ip-протокола
+
 ## Internet protocol v4
 
 ### Стандарты
