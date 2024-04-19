@@ -1,25 +1,25 @@
 # Лекция 8
 
 ## Содержание
-* [IPv4: Сабнетинг и супернетинг](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#сабнетинг-и-супернетинг)
-* [ICMPv4](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#icmpv4)
+* [IPv4: Сабнетинг и супернетинг](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#сабнетинг-и-супернетинг)
+* [ICMPv4](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#icmpv4)
   * Общая информация
   * Заголовок icmp
   * Основные типы icmp-сообщений
-* [UDP](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#udp)
+* [UDP](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#udp)
   * Общая информация
   * Задачи
   * Формат пакета
-* [UDP-Lite](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#udp-lite)
+* [UDP-Lite](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#udp-lite)
   * Формат заголовка
   * UDP Guidelines
-* [Дейтаграммные транспорты](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#дейтаграммые-транспорты)
-* [Multicasting](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#multicasting)
-* [IGMP](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#igmp)
+* [Дейтаграммные транспорты](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#дейтаграммые-транспорты)
+* [Multicasting](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#multicasting)
+* [IGMP](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#igmp)
   * Задачи
   * Стандарты
   * Алгоритм работы
-* [Коммутаторы и snooping](https://github.com/AliakseiSuvorau/networks/edit/master/Lection-08.md#коммутаторы-и-snooping)
+* [Коммутаторы и snooping](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-08.md#коммутаторы-и-snooping)
   * IGMP Proxy
 
 ### Сабнетинг и супернетинг
