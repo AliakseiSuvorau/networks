@@ -1,5 +1,30 @@
 # Лекция 9
 
+## Содержание
+* [Протоколы динамической маршрутизации в ip-сетях](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-09.md#протоколы-динамической-маршрутизации-в-ip-сетях)
+  * Общие сведения
+* [RIP](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-09.md#rip-routing-information-protocol)
+  * Стандарты
+  * RIP v2 vs. RIP v1
+  * Алгоритм вектора расстояний
+  * Как решаются задачи маршрутизации?
+  * Счет до бесконечности
+  * Форматы пакетов
+* [OSPF](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-09.md#ospf-open-shortest-path-first)
+  * Общая информация
+  * Зонирование на области
+  * Работа OSPF
+  * Установление соседских отношений
+  * Состояния соседских отношений
+  * Формат hello-пакета
+  * Локальный и глобальный flooding
+  * Основные типы записей LSA
+  * Итог
+* [NAT](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-09.md#nat-network-address-translation)
+  * Общая информация
+  * Задачи NAT-шлюза
+  * Методы трансляции
+
 ## Протоколы динамической маршрутизации в ip-сетях
 
 ### Общие сведения
