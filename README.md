@@ -10,4 +10,4 @@
 7. [Лекция 6](Lection-06.md). Internet protocol v4.
 8. [Лекция 7](Lection-07.md). Заголовок IPv4: Фрагментация, опциональные поля. Маршрутизация.
 9. [Лекция 8](Lection-08.md). IPv4: сабнетинг и супернетинг. ICMPv4. UDP и UDP-Lite. Multicasting и IGMP.
-10. [Лекция 9](Lection-09.md). Протоколы динамической маршрутизации: RIP и OSPF. NAT.
+10. [Лекция 9](Lection-09.md). RIP. OSPF. NAT.
