@@ -1,5 +1,20 @@
 # Доп. лекция
 
+## Содержание
+
+* [Протоколы для конфигурации хостов](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-09a.md#протоколы-для-конфигурации-хостов)
+  * BOOTP
+* [DHCP](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-09a.md#dhcp-dynamic-host-configuration-protocol)
+  * Способы назначения ip-адресов
+  * Участники DHCP обмена
+  * Задачи DHCP
+  * Транспорт
+  * Формат
+  * Опции
+  * DHCP Message Type
+  * Как работать с временными адресами?
+  * Безопасность
+
 ## Протоколы для конфигурации хостов
 
 * Задача
