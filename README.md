@@ -13,3 +13,4 @@
 10. [Лекция 9](Lection-09.md). RIP. OSPF. NAT.
 11. [Доп. лекция](Lection-09a.md). DHCP.
 ---
+12. [Лекция 10](Lection-10.md). TCP.
