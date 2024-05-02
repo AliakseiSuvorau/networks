@@ -110,7 +110,7 @@
 4) При получении пакета `ACK` пассивное устройство тоже переходит в состояние `ESTABLISHED`.
 5) Далее устройства обмениваются пакетами, каждый раз увеличивая поля `SEQ` и `ACK`, меняя их местами.
 
-![image](https://github.com/AliakseiSuvorau/networks/assets/98915109/2b57ed36-df9f-4a08-b57f-db116635b1fc)
+![image](https://github.com/AliakseiSuvorau/networks/assets/98915109/f07b1462-5827-4a98-aff3-4deae08c605b)
 
 ### (Вежливое) завершение соединения
 
@@ -126,7 +126,7 @@
    `TIME_WAIT` (оно нужно для того, чтобы перепослать пакет `ACK`, если он не дошел)
 6) После этого оба устройства переходят в состояние `CLOSED`.
 
-![image](https://github.com/AliakseiSuvorau/networks/assets/98915109/2be45c14-fa2d-417c-a355-9265267eab5f)
+![image](https://github.com/AliakseiSuvorau/networks/assets/98915109/c6f813b9-194f-4f0e-90cc-e74f093d3c9b)
 
 ### Состояния
 
