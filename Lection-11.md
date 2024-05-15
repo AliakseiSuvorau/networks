@@ -1,5 +1,21 @@
 # Лекция 11
 
+## Содержание
+
+* TCP
+  * Алгоритм Нейгла
+  * TCP Timestamps
+  * Перегрузка сети
+  * TCP Tahoe
+    * Управление перегрузками
+    * Динамическое определение таймаутов
+    * Самосинхронизация
+  * Keep-alive
+  * Zero-window-probe
+* [PGM](https://github.com/AliakseiSuvorau/networks/blob/master/Lection-11.md#pgm-pragmatic-general-multicast)
+  * Задачи
+  * Борьба с потерей пакетов
+
 ### Алгоритм Нейгла
 
 * Пусть будем посылать tiny-граммы. Их много, поэтому получим перегрузку сети
