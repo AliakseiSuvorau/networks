@@ -16,3 +16,6 @@
 12. [Лекция 10](Lection-10.md). TCP.
 13. [Лекция 11](Lection-11.md). TCP - продолжение. PGM.
 14. [Доп. лекция](Lection-12.md). SCTP.
+15. [Доп. лекция](Lection-13.md). DNS.
+16. [Доп. лекция](Lection-14.md). IPSec.
+17. [Доп. лекция](Lection-15.md). IPv6.
